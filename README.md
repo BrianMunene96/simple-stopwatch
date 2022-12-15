@@ -2,7 +2,7 @@
 
 A simple stopwatch created with HTML, CSS and JavaScript
 
-Three functionalities; **Start**, **Stop**, **Reset**
+Three functionalities; **Start**, **Pause**, **Reset**
 
 ## Unique learning points
 
